@@ -1,0 +1,8 @@
+# Ignore build files and system files
+target/
+*.class
+*.log
+*.iml
+.idea/
+.vscode/
+.DS_Store
